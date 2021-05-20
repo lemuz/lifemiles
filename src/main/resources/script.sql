@@ -20,16 +20,22 @@ INSERT INTO metodo VALUES(0, 'morse');
 INSERT INTO metodo VALUES(0, 'octal');
 INSERT INTO metodo VALUES(0, 'bacedifogu');
 
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
-INSERT INTO letras VALUES(0,1,'')
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+INSERT INTO letras VALUES(0,1,'');
+
+INSERT INTO letras VALUES(0,2,'');
+INSERT INTO letras VALUES(0,2,'');
+INSERT INTO letras VALUES(0,2,'');
+INSERT INTO letras VALUES(0,2,'');
+INSERT INTO letras VALUES(0,2,'');
