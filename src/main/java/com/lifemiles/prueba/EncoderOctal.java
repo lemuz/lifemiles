@@ -10,7 +10,7 @@ public class EncoderOctal extends Encoder{
 				",", ".", "?" };
 		String mensajeCodificado="";
 		for(int index =0; index<chars.length; index++) {
-			int decimal = (char)chars[index];
+			int decimal = chars[index].charAt(0);
 			chars[index] = Integer.toOctalString(decimal);
 		}
 		return mensajeCodificado;

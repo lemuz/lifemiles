@@ -1,3 +1,4 @@
+package com.lifemiles.prueba.entity;
 
 public class EncodeMethod {
 	
